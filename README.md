@@ -17,9 +17,23 @@ for sure I am currently Third-Year Software Engineering student at the National 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="javascript logo"  />
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
+  
+ <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
+  <img src=" https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="30" alt="java logo"  />
+   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
+     <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
+      <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
+       <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
+        <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
+         <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
+          <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
+           <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
+            <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
 
-  <img width="12" />  
+            
+  <img width="12" /> 
 
   <img width="12" />
   <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/python_button_icon_151925.png" height="30" alt="react logo"  />
