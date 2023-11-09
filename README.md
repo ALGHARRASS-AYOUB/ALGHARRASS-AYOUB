@@ -17,7 +17,7 @@ for sure I am currently Third-Year Software Engineering student at the National 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-    <img src="  https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.png" height="30" alt="javascript logo"  />
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="javascript logo"  />
 
   <img width="12" />  
 
