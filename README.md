@@ -20,7 +20,7 @@ for sure I am currently Third-Year Software Engineering student at the National 
     <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
   
  <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
-  <img src=" https://cdn.icon-icons.com/icons2/2530/PNG/512/java_button_icon_151928.png" height="30" alt="java logo"  />
+  <img src="https://www.qwant.com/?q=laravel+logo+svg&client=ext-chrome-sb&t=images&o=0%3A700000502B0CA4FFAAFF1FB432133B096232F954" height="30" alt="java logo"  />
    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
     <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
      <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/laravel_button_icon_151953.svg" height="30" alt="laravel logo"  />
