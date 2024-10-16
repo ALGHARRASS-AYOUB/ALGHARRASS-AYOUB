@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ALGHARRASS AYOUB</h1>
 ```
 <p align="left">You want to know about me? 
-for sure I am currently Third-Year Software Engineering student at the National School of Applied Sciences Fez, Ex-president of Future Pionneer Club. Additionally, a Full-Stack Developper & DevOps Enthusiast,with a solid background in programming, web and mobile development.  As well as having a practical exprience in automation, setting up  CI/CD pipelines, configuration, orchestration, monitoring tools and system/network administration.</p>
+for sure, I am a Software Engineering & DevOps Enthusiast,with a solid background in programming, web and mobile development.  As well as having a practical exprience in automation, setting up  CI/CD pipelines, configuration, orchestration, monitoring tools and system/network administration.</p>
 ``` 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=algharrass-ayoub&label=Profile%20views&color=0e75b6&style=flat" alt="algharrass-ayoub" /> </p>
 
